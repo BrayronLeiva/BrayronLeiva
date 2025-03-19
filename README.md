@@ -10,7 +10,7 @@
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
-Soy un **Desarrollador Full-Stack autodidacta** apasionado por la tecnología y siempre en busca de aprender algo nuevo. Actualmente, estoy estudiando **Ingeniería en Sistemas**. En mi tiempo libre, disfruto jugando a **Full Guys. Me encanta conectar con otros desarrolladores y compartir conocimiento.
+Soy un **Desarrollador autodidacta** apasionado por la tecnología y siempre en busca de aprender algo nuevo. Actualmente, estoy estudiando **Ingeniería en Sistemas**. En mi tiempo libre, disfruto jugando a **Full Guys. Me encanta conectar con otros desarrolladores y compartir conocimiento.
 
 ---
 
