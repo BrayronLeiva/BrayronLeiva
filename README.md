@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Brayron Leiva</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Brayron Leiva</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
-Soy un desarrollador autodidacta apasionado por la tecnología y siempre en busca de aprender algo nuevo. Actualmente, estoy estudiando ingeniería en sistemas. En mi tiempo libre, disfruto jugando a **Full Guys. Me encanta conectar con otros desarrolladores y tant expandir como compartir mi conocimiento.
+I'm a self-taught developer passionate about technology and always looking to learn something new. I'm currently studying Systems Engineering. In my free time, I enjoy playing Fall Guys. I love connecting with other developers to both share and grow my knowledge.
 
 ---
 
