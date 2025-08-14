@@ -6,7 +6,8 @@
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
-I'm a self-taught developer passionate about technology and always looking to learn something new. I'm currently studying Systems Engineering. In my free time, I enjoy playing Fall Guys. I love connecting with other developers to both share and grow my knowledge.
+I'm a self-taught developer passionate about technology and always looking to learn something new. I'm currently studying Systems Engineering.
+In my free time, I enjoy playing Fall Guys. I love connecting with other developers to both share and grow my knowledge.
 
 ---
 
