@@ -8,7 +8,7 @@
 
 I'm a self-taught developer passionate about technology and always looking to learn something new. I'm currently studying Systems Engineering. In my free time, I enjoy playing Fall Guys. I love connecting with other developers to both share and grow my knowledge.
 
-
+---
 
 ## 🛠️ **Habilidades**
 
